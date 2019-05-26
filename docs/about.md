@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+# Worum geht es hier
 <img align="center" src="../images/logo/githup-logo.png">
 Dieses Projekt baut eine statische Seite, um den Nutzer beim Erfragen seiner über ihn gespeicherten Daten per DSGVO von seinem Provider anzufordern.
 
