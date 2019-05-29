@@ -12,7 +12,7 @@ Um das Projekt zu Organisieren und zu Planen nutzen wir ein [ zentrales Pad](htt
 
 Falls du unsicher bist wie du hier am besten helfen kannst, stellt dich am kurz mit deinen Fähigkeiten oder Interessen in unserem [Discord Channel](https://discord.gg/BsdSpW3) vor.
 
-### Zentrales Pad: [https://1n.pm/AZd2C](https://1n.pm/AZd2C)
+### Zentrales Pad: [https://yourpart.eu/p/frag-deinen-provider](https://yourpart.eu/p/frag-deinen-provider)
 
 ### Discord: [https://discord.gg/BsdSpW3](https://discord.gg/BsdSpW3)
 
