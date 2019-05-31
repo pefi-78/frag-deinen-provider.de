@@ -17,11 +17,11 @@ fi
 
 for p in "${PADS[@]}"
 do	
-	cmd="wget '$BASE_URL/$p/export/markdown' -O '$p.md'"
+	cmd="wget ${BASE_URL}/${p}/export/markdown -O ${p}.md"
         #echo $cmd
 	$cmd
-        git add "$PWD/*"
-        git commit -m "Update pads"
+    echo        git add "${PWD}/*"
+    echo    git commit -m "Update pads"
 done
 
 exit 0
