@@ -20,8 +20,8 @@ do
 	cmd="wget ${BASE_URL}/${p}/export/markdown -O ${p}.md"
         #echo $cmd
 	$cmd
-    echo        git add "${PWD}/*"
-    echo    git commit -m "Update pads"
+        git add "${PWD}/*"
+        git commit -m "Update pads"
 done
 
 exit 0
