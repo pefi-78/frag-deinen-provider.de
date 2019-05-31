@@ -6,11 +6,11 @@ BASE_URL=https://yourpart.eu/p/frag-deinen-provider
 PADS=("frag-deinen-provider" "frag-deinen-provider-mail-anfrage" "frag-deinen-provider-kampagne" "frag-deinen-provider-anfrage-text" "frag-deinen-provider-kontaktdaten" "frag-deinen-provider-datenschutzerlaerung")
 
 
-if [ -z "$(git status --porcelain $PWD)" ]; then 
+if [ -z "$(git status --porcelain ${PWD})" ]; then 
   echo "Working directory clean"
 else 
-  echo "Uncommitted changes in $PWD"
-  git status $PWD
+  echo "Uncommitted changes in ${PWD}"
+  git status ${PWD}
   exit 1
 fi
 
