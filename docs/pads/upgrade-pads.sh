@@ -2,7 +2,7 @@
 # 
 # Script zo save the wikipads
 
-BASE_URL=https://yourpart.eu/p/frag-deinen-provider
+BASE_URL="https://yourpart.eu/p/"
 PADS=("frag-deinen-provider" "frag-deinen-provider-mail-anfrage" "frag-deinen-provider-kampagne" "frag-deinen-provider-anfrage-text" "frag-deinen-provider-kontaktdaten" "frag-deinen-provider-datenschutzerlaerung")
 
 
